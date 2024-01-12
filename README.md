@@ -1,6 +1,8 @@
 # AI-PathPrediction
-Edit: this is deprecated. I have made the better version which unfortunately will not be open-sourced. The new work found is based on the basics of this 
-![image](https://github.com/DnipeT/AI-PathPrediction/assets/118316586/acc6a480-ea30-4e86-a0f1-f909e6f51654)
+Edit: this is deprecated. I have made the better version which unfortunately will not be open-sourced. The new work found is still based on the basics of this repository
+
+![image](https://github.com/DnipeT/AI-PathPrediction/assets/118316586/24041808-9269-487a-b7d0-aaeb4fed828e)
+
 
 - This is an AI-Path Prediction for Roblox project  which implemented an AI movement prediction around the target to simulate a realistic situation where a target is surrounded by many AI. This creates a path-finding system where AI will try to find an empty 
 nearby spots that are close to the target. 
